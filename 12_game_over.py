@@ -1,3 +1,54 @@
+#Bubble Game
+#Final version
+
+#Easy Mode
+
+# lv1
+#map = [
+#    list("RRYYBBGG"),
+#      list("RRYYBBG/"),
+#      list("BBGGRRYY"),
+#      list("BGGRRYY/"),
+#      list("........"),
+#      list("......./"),
+#      list("........"),
+#      list("......./"),
+#      list("........"),
+#      list("......./"),
+#      list("........")
+#  ]
+
+# lv2
+#  map = [
+#      list("...YY..."),
+#      list("...G.../"),
+#      list("...R...."),
+#      list("...B.../"),
+#      list("...R...."),
+#      list("...G.../"),
+#      list("...P...."),
+#      list("...P.../"),
+#      list("........"),
+#      list("......./"),
+#      list("........")
+#  ]
+
+# lv3
+#  map = [
+#      list("G......G"),
+#      list("RGBYRGB/"),
+#      list("Y......Y"),
+#      list("BYRGBYR/"),
+#      list("...R...."),
+#      list("...G.../"),
+#      list("...R...."),
+#      list("......./"),
+#      list("........"),
+#      list("......./"),
+#      list("........")
+#  ]
+
+
 #down wall
 #7chances
 # Warning left 2 
